@@ -14,8 +14,13 @@
       "isolatedModules": true,
       "jsx": "preserve",
       "incremental": true,
+<<<<<<< HEAD
       "rootDir": "./",
       "baseUrl": "./"
+=======
+      "rootDir": "./src",
+      "baseUrl": "./src"
+>>>>>>> ad04635855d8a00972a48753149146dad011b658
     },
     "include": ["next-env.d.ts", "**/*.ts", "**/*.tsx"],
     "exclude": ["node_modules"]
